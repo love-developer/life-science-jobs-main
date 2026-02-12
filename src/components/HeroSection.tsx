@@ -86,7 +86,7 @@ const HeroSection = () => {
               />
             </div>
             <Link to="/browse">
-              <Button size="lg" className="h-13 px-8 rounded-xl shadow-glow">
+              <Button size="lg" className="h-13 px-8 py-[10px] rounded-xl shadow-glow">
                 Search <ArrowRight className="ml-1 h-4 w-4" />
               </Button>
             </Link>
